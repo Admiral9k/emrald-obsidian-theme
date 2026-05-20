@@ -2,19 +2,31 @@
 
 A focused, premium theme built around deep emerald and warm gold — like a well-lit study at night, or sun-warmed parchment by day.
 
-![EMRALD Theme Screenshot](screenshot.png)
+![EMRALD Theme](screenshot.png)
+
+## Dark Mode
+
+Deep emerald backgrounds with bright emerald and warm gold accents. Designed for long sessions without eye fatigue.
+
+![Dark — Headers & Text](Theme-Dark2.png)
+![Dark — Code & Tables](Theme-Dark3.png)
+![Dark — Callouts & Settings](Theme-Dark4.png)
+
+## Light Mode
+
+Warm paper tones with dark emerald text and subtle gold highlights. Feels like writing on quality stationery.
+
+![Light — Headers & Text](Theme-Light2.png)
+![Light — Code & Tables](Theme-Light3.png)
+![Light — Callouts & Settings](Theme-Light4.png)
 
 ## Features
 
-**Dark Mode** — Deep emerald backgrounds with bright emerald and warm gold accents. Designed for long sessions without eye fatigue.
-
-**Light Mode** — Warm paper tones with dark emerald text and subtle gold highlights. Feels like writing on quality stationery.
-
-**Both modes include:**
-- Full syntax highlighting (CodeMirror 6) with emerald/gold palette
+- Full dark and light mode with curated palettes
+- Syntax highlighting (CodeMirror 6) in emerald/gold
 - Styled blockquotes, callouts, tables, and horizontal rules
 - Emerald-tinted inline code blocks
-- Readable toast/notice messages
+- Readable toast/notice messages in both modes
 - Stepped header hierarchy with weight + color distinction
 
 ## Style Settings
