@@ -52,3 +52,4 @@ The theme pairs naturally with the plugin but works beautifully on its own.
 ## License
 
 [MIT](LICENSE)
+
