@@ -8,17 +8,17 @@ A focused, premium theme built around deep emerald and warm gold — like a well
 
 Deep emerald backgrounds with bright emerald and warm gold accents. Designed for long sessions without eye fatigue.
 
-![Dark — Headers & Text](Theme-Dark2.png)
-![Dark — Code & Tables](Theme-Dark3.png)
-![Dark — Callouts & Settings](Theme-Dark4.png)
+![Dark — Headers & Text](dark-headers-text.png)
+![Dark — Code & Tables](dark-code-tables.png)
+![Dark — Callouts & Settings](dark-callouts-settings.png)
 
 ## Light Mode
 
 Warm paper tones with dark emerald text and subtle gold highlights. Feels like writing on quality stationery.
 
-![Light — Headers & Text](Theme-Light2.png)
-![Light — Code & Tables](Theme-Light3.png)
-![Light — Callouts & Settings](Theme-Light4.png)
+![Light — Headers & Text](light-headers-text.png)
+![Light — Code & Tables](light-code-tables.png)
+![Light — Callouts & Settings](light-callouts-settings.png)
 
 ## Features
 
