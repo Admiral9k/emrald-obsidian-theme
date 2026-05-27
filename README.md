@@ -1,8 +1,8 @@
-# EMRALD Theme for Obsidian
+# Emrald Theme for Obsidian
 
 A focused, premium theme built around deep emerald and warm gold — like a well-lit study at night, or sun-warmed parchment by day.
 
-![EMRALD Theme](screenshot.png)
+![Emrald Theme](screenshot.png)
 
 ## Dark Mode
 
@@ -45,19 +45,19 @@ Requires the [Style Settings](https://github.com/mgmeyers/obsidian-style-setting
 
 1. Open Obsidian **Settings → Appearance**
 2. Under **Themes**, click **Manage**
-3. Search for **EMRALD**
+3. Search for **Emrald**
 4. Click **Install and use**
 
 ## Manual Installation
 
 1. Download `theme.css` and `manifest.json` from the [latest release](../../releases/latest)
-2. Create a folder called `EMRALD` inside your vault's `.obsidian/themes/` directory
+2. Create a folder called `Emrald` inside your vault's `.obsidian/themes/` directory
 3. Place both files inside
-4. Open Obsidian **Settings → Appearance** and select **EMRALD**
+4. Open Obsidian **Settings → Appearance** and select **Emrald**
 
 ## About
 
-EMRALD is built by [Effort Mastery LLC](https://effortmastery.com), the team behind the [EMRALD Obsidian plugin](https://getemrald.com) — an effort management system that tracks what your work actually costs you.
+Emrald is built by [Effort Mastery LLC](https://effortmastery.com), the team behind the [EMRALD Obsidian plugin](https://getemrald.com) — an effort management system that tracks what your work actually costs you.
 
 The theme pairs naturally with the plugin but works beautifully on its own.
 
